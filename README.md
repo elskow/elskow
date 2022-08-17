@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Helmy or u can call me as El</h1>
 <h3 align="center">Passionate to machine learning</h3>
 
-<p align="left"> <img src="https://i.gifer.com/OyGx.gif" alt="hexlir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hexlir" alt="hexlir" /></a> </p>
-
 - Hi, i'm an undergraduate student **in National University Of Surabaya (UNESA)**
 
 - 🌱 I’m currently learning **Data science and Machine learning**
