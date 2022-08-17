@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Helmy or u can call me as El</h1>
 <h3 align="center">Passionate to machine learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hexlir&label=Profile%20views&color=0e75b6&style=flat" alt="hexlir" /> </p>
+<p align="left"> <img src="https://i.gifer.com/OyGx.gif" alt="hexlir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hexlir" alt="hexlir" /></a> </p>
 
