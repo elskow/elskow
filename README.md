@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Helmy or u can call me as El</h1>
 <h3 align="center">Passionate to machine learning</h3>
 
-- Hi, i'm an undergraduate student **in National University Of Surabaya (UNESA)**
+- Hi, i'm an undergraduate student **in State University Of Surabaya (UNESA)**
 
 - 🌱 I’m currently learning **Data science and Machine learning**
 
