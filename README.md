@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning on Data science and Machine learning<br>⚡ Fun fact Has soft skill on cinematography and audio mastering<br><br>
+🔭 I’m currently learning on Machine learning and Competitive programming<br>⚡ Fun fact Has soft skill on cinematography and audio mastering<br><br>
 
 
 ## 🌐 Socials:
