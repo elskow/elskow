@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I do competitive programming & ML<br>⚡ Fun fact Has soft skill on cinematography and audio mastering<br><br>
+🔭 I do competitive programming & ML<br>⚡ Has soft skill on cinematography and audio mastering<br><br>
 
 
 ## 🌐 Socials:
