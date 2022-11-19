@@ -4,7 +4,7 @@
 
 I'm a computer science students.
 
-🧠 Currently learning Machine learning & Computational Mathematics
+🧠 Currently learning Machine learning & Computational Mathematics.
 
 
 
