@@ -1,9 +1,6 @@
 
 # Well hello!
 
-
-Computer science students.
-
 🧠 Currently learning Machine learning & Computational Mathematics.
 
 
