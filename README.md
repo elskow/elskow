@@ -2,7 +2,7 @@
 # Well hello!
 
 
-I'm a computer science students.
+Computer science students.
 
 🧠 Currently learning Machine learning & Computational Mathematics.
 
